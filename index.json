@@ -1,0 +1,38 @@
+[
+  {
+    "spdx": [ "Apache-2.0" ],
+    "name": "Apache License 2.0"
+  },
+  {
+    "spdx": [ "BSD-3-Clause" ],
+    "name": "BSD 3-Clause \"New\" or \"Revised\" license"
+  },
+  {
+    "spdx": [ "BSD-2-Clause" ],
+    "name": "BSD 2-Clause \"Simplified\" or \"FreeBSD\" license"
+  },
+  {
+    "spdx": [ "GPL-1.0", "GPL-2.0", "GPL-3.0" ],
+    "name": "GNU General Public License (GPL)"
+  },
+  {
+    "spdx": [ "LGPL-2.0", "LGPL-2.1", "LGPL-3.0" ],
+    "name": "GNU Library or \"Lesser\" General Public License (LGPL)"
+  },
+  {
+    "spdx": [ "MIT" ],
+    "name": "MIT license"
+  },
+  {
+    "spdx": [ "MPL-2.0" ],
+    "name": "Mozilla Public License 2.0"
+  },
+  {
+    "spdx": [ "CDDL-1.0", "CDDL-1.1" ],
+    "name": "Common Development and Distribution License"
+  },
+  {
+    "spdx": [ "EPL-1.0" ],
+    "name": "Eclipse Public License"
+  }
+]
