@@ -6,8 +6,8 @@ A handful of OSI-approved licenses do not have SPDX identifiers:
 
 1. Free Public License 1.0.0
 2. OSET Public License version 2.1
-3. Jabber Open Source License (retired)
-4. MITRE Collaborative Virtual Workspace License (retired)
+3. Jabber Open Source License ([retired][retired])
+4. MITRE Collaborative Virtual Workspace License ([retired][retired])
 
 # Deprecated SPDX Identifier
 
@@ -20,3 +20,5 @@ A couple OSI-approved licenses have both deprecated SPDX license identifiers and
 
 - [OSI's list of approved licenses by name](https://opensource.org/licenses/alphabetical)
 - [The SPDX License List](https://spdx.org/licenses/)
+
+[retired]: https://opensource.org/licenses/do-not-use
