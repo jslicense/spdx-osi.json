@@ -2,12 +2,12 @@ This package exports an array of strings. Each string is the SPDX license expres
 
 # OSI-Approved Licenses Without SPDX Identifiers
 
-A couple OSI-approved licenses do not have SPDX identifiers:
+A handful of OSI-approved licenses do not have SPDX identifiers:
 
 1. Free Public License 1.0.0
 2. OSET Public License version 2.1
-
-As of December of 2015, [the SPDX legal mailing list](https://lists.spdx.org/pipermail/spdx-legal/) is considering both for identification.
+3. Jabber Open Source License (retired)
+4. MITRE Collaborative Virtual Workspace License (retired)
 
 # Deprecated SPDX Identifier
 
