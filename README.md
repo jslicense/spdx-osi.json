@@ -9,4 +9,6 @@ A few OSI-approved licenses do not have valid, non-deprecated SPDX identifiers:
 3. WXwindows (deprecated)
 4. eCos-2.0 (deprecated)
 
+Both the Free Public License and the OSET Public License 2.1 have been discussed on the [SPDX legal mailing list](https://lists.spdx.org/pipermail/spdx-legal/).
+
 Those licenses aren't included in the exported list.
