@@ -1,11 +1,17 @@
 {
   "name": "spdx-osi",
-  "version": "0.0.0",
   "description": "SPDX identifiers for OSI-approved licenses",
+  "version": "0.0.0",
   "author": "The Open Source Initiative",
   "contributors": [
     "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)"
   ],
+  "devDependencies": {
+    "spdx-license-ids": "^1.1.0"
+  },
+  "license": "CC-BY 4.0",
   "repository": "kemitchell/spdx-osi.json",
-  "license": "CC-BY 4.0"
+  "scripts": {
+    "test": "node test.js"
+  }
 }
