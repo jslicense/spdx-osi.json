@@ -1,9 +1,9 @@
 var assert = require('assert')
-var spdx = require('spdx-license-ids')
+var parse = require('spdx-expression-parse')
 var osi = require('./')
 
 osi
   .forEach(function(identifier) {
-    assert(
-      ( spdx.indexOf(identifier) >= 0 ),
-      ( identifier + 'is a valid SPDX identifier' )) })
+    assert.doesNotThrow(
+      function() { parse(identifier) },
+      ( identifier + ' is a valid SPDX identifier' )) })

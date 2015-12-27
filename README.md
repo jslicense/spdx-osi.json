@@ -1,14 +1,21 @@
-This package exports an array of strings. Each string is the SPDX identifier of an OSI-approved "open source" license.
+This package exports an array of strings. Each string is the SPDX license expression for an OSI-approved "open source" license.
 
 See [the OSI's published list](https://opensource.org/licenses/alphabetical).
 
-A few OSI-approved licenses do not have valid, non-deprecated SPDX identifiers:
+# OSI-Approved Licenses Without SPDX Identifiers
 
-1. Free Public License 1.0.0 (no identifier)
-2. OSET Public License version 2.1 (no identifier)
-3. WXwindows (deprecated)
-4. eCos-2.0 (deprecated)
+A couple OSI-approved licenses do not have SPDX identifiers:
 
-Both the Free Public License and the OSET Public License 2.1 have been discussed on the [SPDX legal mailing list](https://lists.spdx.org/pipermail/spdx-legal/).
+1. Free Public License 1.0.0
+2. OSET Public License version 2.1
 
-Those licenses aren't included in the exported list.
+As of December of 2015, [the SPDX legal mailing list](https://lists.spdx.org/pipermail/spdx-legal/) is considering both for identification.
+
+# Deprecated SPDX Identifiers for OSI-Approved Licenses
+
+A couple OSI-approved licenses have both deprecated SPDX license identifiers and equivalent SPDX license expressions.
+
+1. `WXwindows` is deprecated in favor of `GPL-2.0 WITH WxWindows-exception-3.1`
+2. `eCos-2.0` is deprecated in favor of `GPL-2.0 WITH eCos-exception-2.0`
+
+The array exported by this package includes only the SPDX license expressions for those licenses.

@@ -7,7 +7,7 @@
     "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)"
   ],
   "devDependencies": {
-    "spdx-license-ids": "^1.1.0"
+    "spdx-expression-parse": "^1.0.2"
   },
   "files": [
     "index.json"
