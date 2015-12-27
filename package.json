@@ -2,17 +2,14 @@
   "name": "spdx-osi",
   "description": "SPDX license expressions for OSI-approved licenses",
   "version": "1.1.2",
-  "author": "The Open Source Initiative",
-  "contributors": [
-    "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)"
-  ],
+  "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
   "devDependencies": {
     "spdx-expression-parse": "^1.0.2"
   },
   "files": [
     "index.json"
   ],
-  "license": "CC-BY 4.0",
+  "license": "MIT",
   "repository": "kemitchell/spdx-osi.json",
   "scripts": {
     "test": "node test.js"

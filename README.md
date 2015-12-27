@@ -22,3 +22,9 @@ A couple OSI-approved licenses have both deprecated SPDX license identifiers and
 - [The SPDX License List](https://spdx.org/licenses/)
 
 [retired]: https://opensource.org/licenses/do-not-use
+
+# Licenses
+
+The OSI and SPDX make their content available under Creative Commons licenses.
+
+This package copyright 2015 Kyle E. Mitchell. Licensed under the terms of The MIT License.
