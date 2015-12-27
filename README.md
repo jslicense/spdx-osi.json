@@ -9,7 +9,7 @@ A handful of OSI-approved licenses do not have SPDX identifiers:
 3. Jabber Open Source License ([retired][retired])
 4. MITRE Collaborative Virtual Workspace License ([retired][retired])
 
-# Deprecated SPDX Identifier
+# Deprecated SPDX Identifiers
 
 A couple OSI-approved licenses have both deprecated SPDX license identifiers and equivalent SPDX license expressions. The array exported by this package includes only the SPDX license expressions for those licenses.
 
