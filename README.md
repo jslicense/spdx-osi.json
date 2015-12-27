@@ -9,7 +9,7 @@ A couple OSI-approved licenses do not have SPDX identifiers:
 
 As of December of 2015, [the SPDX legal mailing list](https://lists.spdx.org/pipermail/spdx-legal/) is considering both for identification.
 
-# Deprecated SPDX Identifiers for OSI-Approved Licenses
+# Deprecated SPDX Identifiers
 
 A couple OSI-approved licenses have both deprecated SPDX license identifiers and equivalent SPDX license expressions.
 
