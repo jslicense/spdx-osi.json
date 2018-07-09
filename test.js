@@ -28,6 +28,7 @@ https.get(spdx, function(response) {
           .licenses
           .filter(function(license) { return license.isOsiApproved })
           .map(function(license) { return license.licenseId })
+          .filter(function(id) { return !/\+$/.test(id) })
           .reduce(
             function(missing, id) {
               return (
