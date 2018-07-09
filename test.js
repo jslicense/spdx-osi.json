@@ -36,4 +36,4 @@ https.get(spdx, function(response) {
                   missing :
                   missing.concat(id) ) },
             [ ]),
-        [ ]) }) })
+        [ 'MIT-0' ]) }) })
