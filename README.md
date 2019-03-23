@@ -1,4 +1,4 @@
-This package exports an array of strings. Each string is the SPDX license expression for an OSI-approved "open source" license. The list includes license expressions for licenses that OSI considers retired or superseded.
+This package exports an array of strings.  Each string is the SPDX identifier for an OSI-approved license.
 
 # OSI-Approved Licenses Without SPDX Identifiers
 
