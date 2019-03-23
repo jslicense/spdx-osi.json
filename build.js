@@ -16,7 +16,10 @@ https.get(URL, function (response) {
       var parsed = JSON.parse(body)
       var ids = parsed.licenses
         .filter(function (license) {
-          return license.isOsiApproved
+          return (
+            license.isOsiApproved &&
+            license.indexOf(' WITH ') === -1
+          )
         })
         .map(function (license) {
           return license.licenseId
