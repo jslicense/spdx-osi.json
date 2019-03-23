@@ -27,4 +27,4 @@ A couple OSI-approved licenses have both deprecated SPDX license identifiers and
 
 The OSI and SPDX make their content available under Creative Commons licenses.
 
-This package copyright 2015 Kyle E. Mitchell. Licensed under the terms of The MIT License.
+Any additional copyrightable content in this package is dedicated to the public domain under CC0-1.0.
