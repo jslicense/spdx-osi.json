@@ -18,6 +18,8 @@
   "license": "MIT",
   "repository": "kemitchell/spdx-osi.json",
   "scripts": {
-    "test": "node test.js"
+    "pretest": "npm run prepublish",
+    "test": "node test.js",
+    "prepublish": "node build.js > index.json"
   }
 }
